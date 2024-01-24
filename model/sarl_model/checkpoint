@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Lakin\\PycharmProjects\\MARLspectrumSharingV2X-master\\MARLspectrumSharingV2X-master\\model/sarl_model/agent"
+all_model_checkpoint_paths: "C:\\Users\\Lakin\\PycharmProjects\\MARLspectrumSharingV2X-master\\MARLspectrumSharingV2X-master\\model/sarl_model/agent"
